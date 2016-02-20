@@ -1,0 +1,32 @@
+{
+  "name": "devxbase",
+  "version": "0.0.1",
+  "description": "DevxBase code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-typescript": "^2.11.0",
+    "merge2": "^1.0.1",
+    "tslint": "^3.3.0",
+    "tslint-microsoft-contrib": "^2.0.1",
+    "typescript": "^1.9.0-dev.20160220",
+    "typings": "^0.6.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwhp/DevxBase.git"
+  },
+  "author": "Harry Pfleger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwhp/DevxBase/issues"
+  },
+  "homepage": "https://github.com/iwhp/DevxBase#readme"
+}

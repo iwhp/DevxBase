@@ -1,0 +1,1 @@
+// domainServiceInterface.ts
